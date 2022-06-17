@@ -2,7 +2,7 @@
 
 ## Set up
 
-This project uses Tensorflow to run the scoring functionality. Run `pip install -r requirements.txt` from the root folder to install the dependencies
+This project uses Python 3 and Tensorflow/Keras to run the scoring functionality. Run `pip install -r requirements.txt` from the root folder to install the dependencies
 
 ## Functionality
 
